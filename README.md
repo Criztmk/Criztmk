@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Criz
-- 👀 I’m interested in VSLI Design
-- 🌱 I’m currently learning RTL Design and Verification
+- 👀 I’m interested in Design Verification
+- 🌱 I’m currently working for Excel VLSI
 - 💞️ I’m looking to collaborate on Verification projects
 - 📫 You can reach me at christogeorge.mail@gmail.com...
 
